@@ -10,7 +10,6 @@ import org.firstinspires.ftc.robotcore.external.Telemetry;
 import org.firstinspires.ftc.teamcode.hardware.Claw;
 import org.firstinspires.ftc.teamcode.hardware.ColorSensorRGB;
 import org.firstinspires.ftc.teamcode.hardware.MechDrive;
-import org.firstinspires.ftc.teamcode.hardware.VisionCamera;
 
 
 @Autonomous(name = "MMMechRedVision2", group = "Drivetrain")
